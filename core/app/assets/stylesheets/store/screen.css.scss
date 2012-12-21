@@ -402,7 +402,8 @@ mark {background-color: $link_text_color; color: $layout_background_color; font-
   /* Main search bar
   /*--------------------------------------*/
   #search-bar {
-    display: block;
+    float: right;
+    margin-top: -14px;
   }
 
   /*--------------------------------------*/
